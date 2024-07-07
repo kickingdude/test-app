@@ -4,7 +4,6 @@ import { WebView } from 'react-native-webview';
 import { StatusBar } from 'expo-status-bar';
 
 
-
 const GeoFindMe = () => {
     const [status, setStatus] = React.useState("");
     const [latitude, setLatitude] = React.useState(null);
@@ -36,7 +35,7 @@ const GeoFindMe = () => {
     const myList = {lat : latitude, long: longitude};
     const serializedList =JSON.stringify(myList);
     return (
-        
+
         <View>
             <Text id="status">{status}</Text>
             <Button
@@ -47,7 +46,6 @@ const GeoFindMe = () => {
         </View>
     );
 }
-
 export default function App() {
     return (
         <View style={styles.container}>
