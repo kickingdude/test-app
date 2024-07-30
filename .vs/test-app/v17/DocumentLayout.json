@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kamer\\test-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamer\\test-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamer\\test-app\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamer\\test-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamer\\test-app\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,31 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "splash.png - PNG [1284x2778, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\splash.png",
-              "RelativeDocumentMoniker": "assets\\splash.png",
-              "ToolTip": "C:\\Users\\kamer\\test-app\\assets\\splash.png - PNG [1284x2778, 32 bit, PNG]",
-              "RelativeToolTip": "assets\\splash.png - PNG [1284x2778, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-07-07T00:16:36.804Z",
-              "EditorCaption": " - PNG [1284x2778, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "icon.png - PNG [1024x1024, 8 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\icon.png",
-              "RelativeDocumentMoniker": "assets\\icon.png",
-              "ToolTip": "C:\\Users\\kamer\\test-app\\assets\\icon.png - PNG [1024x1024, 8 bit, PNG]",
-              "RelativeToolTip": "assets\\icon.png - PNG [1024x1024, 8 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-07-07T00:16:35.311Z",
-              "EditorCaption": " - PNG [1024x1024, 8 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "favicon.png - PNG [48x48, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\favicon.png",
               "RelativeDocumentMoniker": "assets\\favicon.png",
@@ -106,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "adaptive-icon.png - PNG [1024x1024, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\adaptive-icon.png",
               "RelativeDocumentMoniker": "assets\\adaptive-icon.png",
@@ -118,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "metro.config.js",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\metro.config.js",
               "RelativeDocumentMoniker": "metro.config.js",
@@ -126,12 +102,11 @@
               "RelativeToolTip": "metro.config.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-06T23:48:22.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T23:48:22.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "firebaseConfig.js",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\firebaseConfig.js",
               "RelativeDocumentMoniker": "firebaseConfig.js",
@@ -139,12 +114,11 @@
               "RelativeToolTip": "firebaseConfig.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-06T23:41:04.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T23:41:04.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "openlayersmap.html",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\OpenLayers\\openlayersmap.html",
               "RelativeDocumentMoniker": "OpenLayers\\openlayersmap.html",
@@ -152,12 +126,11 @@
               "RelativeToolTip": "OpenLayers\\openlayersmap.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-10T21:48:47.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:48:47.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\App.tsx",
               "RelativeDocumentMoniker": "App.tsx",
@@ -170,20 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "C:\\Users\\kamer\\test-app\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-06T23:42:24.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -196,7 +156,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "icon.png - PNG [1024x1024, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\icon.png",
+              "RelativeDocumentMoniker": "assets\\icon.png",
+              "ToolTip": "C:\\Users\\kamer\\test-app\\assets\\icon.png - PNG [1024x1024, 8 bit, PNG]",
+              "RelativeToolTip": "assets\\icon.png - PNG [1024x1024, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-07T00:16:35.311Z",
+              "EditorCaption": " - PNG [1024x1024, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "splash.png - PNG [1284x2778, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\assets\\splash.png",
+              "RelativeDocumentMoniker": "assets\\splash.png",
+              "ToolTip": "C:\\Users\\kamer\\test-app\\assets\\splash.png - PNG [1284x2778, 32 bit, PNG]",
+              "RelativeToolTip": "assets\\splash.png - PNG [1284x2778, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-07T00:16:36.804Z",
+              "EditorCaption": " - PNG [1284x2778, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\kamer\\test-app\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\kamer\\test-app\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-06T23:42:24.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\kamer\\test-app\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -204,8 +200,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-06-10T21:41:48.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:41:48.16Z"
             },
             {
               "$type": "Document",
